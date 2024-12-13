@@ -18,14 +18,23 @@ The project uses Python and is built with custom logic for each operation—no b
 The GUI provides:
 
  -- Image Upload: Easily upload an image from your device.
+ 
  -- Dynamic Processing: View processed results in real-time.
+ 
 Simple & Advanced Image Operations:
+
  -- Grayscale conversion
+ 
  -- Threshold-based halftone
+ 
  -- Histogram equalization
+ 
  -- Edge detection methods like Sobel, Prewitt, and Kirsch operators
+ 
  -- Gaussian difference edge detection
+ 
  -- Low-pass/high-pass filtering and median filters
+ 
 💻 Tech Stack
 🛠️ Languages & Tools Used:
 
