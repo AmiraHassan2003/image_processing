@@ -46,3 +46,8 @@ GUI Development: Tkinter or other Python-based GUI frameworks
 This project was a fantastic team effort. Special thanks to:
 
 This project strengthened our teamwork, problem-solving, and machine learning engineering skills. 🏆
+
+
+
+https://github.com/user-attachments/assets/80618c0f-e124-4d44-8444-f992ca860a09
+
